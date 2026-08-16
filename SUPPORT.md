@@ -21,7 +21,7 @@ Use **Issues → Request an improvement / Solicitar una mejora** for concrete im
 
 ### Questions
 
-Use **Discussions** for general questions, usage help or conversation when Discussions is enabled for the repository.
+Use **Discussions** for general questions, usage help or conversation.
 
 ### Security issues
 
@@ -55,7 +55,7 @@ Utiliza **Issues → Request an improvement / Solicitar una mejora** para mejora
 
 ### Preguntas
 
-Utiliza **Discussions** para preguntas generales, ayuda de uso o conversación cuando Discussions esté habilitado en el repositorio.
+Utiliza **Discussions** para preguntas generales, ayuda de uso o conversación.
 
 ### Problemas de seguridad
 
