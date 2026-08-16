@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Questions and help / Preguntas y ayuda
     url: https://github.com/IMC93Labs/Anti-UAC-Releases/discussions
-    about: Use Discussions for general questions and usage help when enabled. / Usa Discussions para preguntas generales y ayuda de uso cuando esté habilitado.
+    about: Use Discussions for general questions and usage help. / Usa Discussions para preguntas generales y ayuda de uso.
   - name: Security issue / Problema de seguridad
     url: https://github.com/IMC93Labs/Anti-UAC-Releases/blob/main/SECURITY.md
     about: Do not publish sensitive security details in a public Issue. / No publiques detalles sensibles de seguridad en un Issue público.
