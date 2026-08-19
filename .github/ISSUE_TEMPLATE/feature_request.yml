@@ -11,8 +11,10 @@ body:
         Las sugerencias son bienvenidas cuando mejoren la facilidad de uso, fiabilidad o seguridad de Anti-UAC.
 
         **Personal hobby project / Proyecto personal:** Anti-UAC is developed in free time through AI-assisted vibe coding. There is no guarantee that a suggestion can be implemented.
+        Anti-UAC se desarrolla en el tiempo libre mediante vibe coding asistido por IA. No existe garantía de que una sugerencia pueda implementarse.
 
         Requests whose main purpose is to weaken Windows security globally, bypass organizational security policy or run untrusted software with elevated privileges are outside the scope of this project.
+        Las solicitudes cuyo objetivo principal sea debilitar globalmente la seguridad de Windows, eludir políticas de seguridad de una organización o ejecutar software no fiable con privilegios elevados quedan fuera del alcance del proyecto.
 
   - type: textarea
     id: improvement
