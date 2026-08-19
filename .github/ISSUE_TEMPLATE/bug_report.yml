@@ -11,8 +11,10 @@ body:
         Gracias por dedicar tiempo a informar de un problema.
 
         **Personal hobby project / Proyecto personal:** Anti-UAC is developed in free time through AI-assisted vibe coding and is provided as-is, without guarantees.
+        Anti-UAC se desarrolla en el tiempo libre mediante vibe coding asistido por IA y se proporciona tal cual, sin garantías.
 
         Only use Anti-UAC with applications you trust. Do not include passwords, tokens, private keys, sensitive system information or confidential executables in this report.
+        Utiliza Anti-UAC únicamente con aplicaciones de confianza. No incluyas contraseñas, tokens, claves privadas, información sensible del sistema ni ejecutables confidenciales en este reporte.
 
         Read / Lee: [Disclaimer / Aviso y responsabilidad](https://github.com/IMC93Labs/Anti-UAC-Releases/blob/main/DISCLAIMER.md)
 
